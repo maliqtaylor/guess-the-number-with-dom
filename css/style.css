@@ -16,3 +16,19 @@ body {
 #resetButton {
     margin-top: 20px;
 }
+
+.high {
+  color: red;
+}
+
+.low {
+  color: blue;
+}
+
+.winner {
+  color: green;
+}
+
+.warning{
+    color: orange;
+}
